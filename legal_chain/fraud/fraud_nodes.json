@@ -1,0 +1,104 @@
+[
+    {
+        "id": 0,
+        "name": "使用欺骗手段骗取增值税专用发票",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 1,
+        "name": "数额较大",
+        "start": false,
+        "type": "Normal"
+    },
+    {
+        "id": 2,
+        "name": "处三年以下有期徒刑、拘役或者管制，并处或者单处罚金",
+        "start": false,
+        "type": "Normal"
+    },
+    {
+        "id": 3,
+        "name": "数额巨大",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 4,
+        "name": "OR_1",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 5,
+        "name": "其他严重情节",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 6,
+        "name": "处三年以上十年以下有期徒刑，并处罚金",
+        "start": false,
+        "type": "Normal"
+    },
+    {
+        "id": 7,
+        "name": "数额特别巨大",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 8,
+        "name": "OR_2",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 9,
+        "name": "其他特别严重情节",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 10,
+        "name": "处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产",
+        "start": false,
+        "type": "Normal"
+    },
+    {
+        "id": 11,
+        "name": "使用欺骗手段骗取可以用于骗取出口退税、抵扣税款的其他发票",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 12,
+        "name": "OR_4",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 13,
+        "name": "OR_5",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 14,
+        "name": "诈骗公私财物",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 15,
+        "name": "OR_7",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 16,
+        "name": "OR_8",
+        "start": false,
+        "type": "Logic"
+    }
+]

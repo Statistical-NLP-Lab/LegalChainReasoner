@@ -1,0 +1,248 @@
+[
+    {
+        "id": 0,
+        "name": "以暴力抢劫公私财物",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 1,
+        "name": "未达到特定情形",
+        "start": false,
+        "type": "Normal"
+    },
+    {
+        "id": 2,
+        "name": "处三年以上十年以下有期徒刑",
+        "start": false,
+        "type": "Normal"
+    },
+    {
+        "id": 3,
+        "name": "入户抢劫",
+        "start": false,
+        "type": "Normal"
+    },
+    {
+        "id": 4,
+        "name": "处十年以上有期徒刑、无期徒刑或者死刑",
+        "start": false,
+        "type": "Normal"
+    },
+    {
+        "id": 5,
+        "name": "在公共交通工具上抢劫",
+        "start": false,
+        "type": "Normal"
+    },
+    {
+        "id": 6,
+        "name": "抢劫银行",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 7,
+        "name": "OR_3",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 8,
+        "name": "其他金融机构",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 9,
+        "name": "多次抢劫",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 10,
+        "name": "OR_4",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 11,
+        "name": "数额巨大",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 12,
+        "name": "致人重伤",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 13,
+        "name": "OR_5",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 14,
+        "name": "致人死亡",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 15,
+        "name": "冒充军警人员",
+        "start": false,
+        "type": "Normal"
+    },
+    {
+        "id": 16,
+        "name": "持枪抢劫",
+        "start": false,
+        "type": "Normal"
+    },
+    {
+        "id": 17,
+        "name": "抢劫军用物资",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 18,
+        "name": "OR_8",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 19,
+        "name": "抢劫抢险、救灾、救济物资",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 20,
+        "name": "以胁迫抢劫公私财物",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 21,
+        "name": "OR_12",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 22,
+        "name": "OR_13",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 23,
+        "name": "OR_14",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 24,
+        "name": "OR_17",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 25,
+        "name": "抢夺公私财物",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 26,
+        "name": "数额较大",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 27,
+        "name": "OR_18",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 28,
+        "name": "多次抢夺",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 29,
+        "name": "处三年以下有期徒刑、拘役或者管制",
+        "start": false,
+        "type": "Normal"
+    },
+    {
+        "id": 30,
+        "name": "OR_19",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 31,
+        "name": "其他严重情节",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 32,
+        "name": "数额特别巨大",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 33,
+        "name": "OR_20",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 34,
+        "name": "其他特别严重情节",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 35,
+        "name": "处十年以上有期徒刑或者无期徒刑",
+        "start": false,
+        "type": "Normal"
+    },
+    {
+        "id": 36,
+        "name": "携带凶器抢夺公私财物",
+        "start": true,
+        "type": "Normal"
+    },
+    {
+        "id": 37,
+        "name": "OR_23",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 38,
+        "name": "OR_24",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 39,
+        "name": "OR_25",
+        "start": false,
+        "type": "Logic"
+    },
+    {
+        "id": 40,
+        "name": "OR_28",
+        "start": false,
+        "type": "Logic"
+    }
+]
